@@ -2,7 +2,11 @@
   "name": "shifting-sands",
   "displayName": "Shifting Sands",
   "description": "A theme for coding in the desert.",
-  "version": "0.0.2",
+  "version": "0.2.0",
+  "repository": {
+    "url": "https://github.com/webstek/shifting_sands/",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },

@@ -7,7 +7,7 @@
 - Font light: #c9bbac
 - Font neutral: #534f4f
 - Font dark: #050505
-- Highlight Blue: #99C0D1
+- Highlight Blue: #1758CF, #99C0D1
 - Lime: #85fa67
 - Orange: #85410a, #df8723
 
@@ -21,7 +21,7 @@
 - Variables:
 - Keywords: #f5f3f1
 - Types: #2147ec
-- Classes: #ffeebb
+- Classes: #ffefc1
 - Functions: #534f4f, bold
 - Arguments: #534f4f, italic
 - HTML tag attributes: #534f4f, italic

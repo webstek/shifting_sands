@@ -1,0 +1,21 @@
+{
+  "name": "shifting-sands",
+  "displayName": "Shifting Sands",
+  "description": "A theme for coding in the desert.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shifting Sands",
+        "uiTheme": "vs",
+        "path": "./themes/shifting-sands-color-theme.json"
+      }
+    ]
+  }
+}

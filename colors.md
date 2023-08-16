@@ -8,8 +8,9 @@
 - Font neutral: #534f4f
 - Font dark: #050505
 - Highlight Blue: #1758CF, #99C0D1
-- Lime: #85fa67
-- Orange: #85410a, #df8723
+- Green: #28b18e, #85fa67
+- Orange: #85410a, #df8723, #fab330
+- Red: #eb2d2d
 
 - Side bar: #3a362b, #534d3f
  

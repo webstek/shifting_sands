@@ -280,7 +280,7 @@
 	"colors": {
 
 		// Git colors
-		"gitDecoration.addedResourceForeground": "#85fa67",
+		"gitDecoration.addedResourceForeground": "#77e25c",
 		"gitDecoration.modifiedResourceForeground": "#99C0D1",
 		"gitDecoration.deletedResourceForeground": "#c93434",
 		"gitDecoration.untrackedResourceForeground": "#d44096",
@@ -291,7 +291,7 @@
 		// "notebook.cellBorderColor": "",
 		"notebook.cellHoverBackground": "#a79178",
 		// "notebook.cellInsertionIndicator": "",
-		// "notebook.cellStatusBarItemHoverBackground": "",
+		"notebook.cellStatusBarItemHoverBackground": "#a79178",
 		"notebook.cellToolbarSeparator": "#534f4f",
 		"notebook.focusedCellBackground": "#a79178",
 		"notebook.focusedCellBorder": "#1758CF",
@@ -301,7 +301,7 @@
 		"notebook.outputContainerBackgroundColor": "#a79178",
 		// "notebook.outputContainerBorderColor": "",
 		"notebook.selectedCellBackground": "#df8723",
-		// "notebook.symbolHighlightBackground": "",
+		// "notebook.symbolHighlightBackground": "",		
 
 		"editor.background": "#D1B799",
 		"editor.foreground": "#534f4f",
@@ -314,6 +314,7 @@
 		// "contrastBorder": "",
 		"icon.foreground": "#050505",
 		"widget.shadow": "#5e5041",
+		"toolbar.hoverBackground": "#a79178",
 
 		// Keybinding Labels
 		// "keybindingLabel.background": "#ff0000",
@@ -384,6 +385,37 @@
 		// "editor.selectionHighlightBackground": "",
 		"editor.wordHighlightBackground": "#99C0D1",
 		// "editor.wordHighlightStrongBackground": "",
+
+		// Debugging
+		// "debugToolBar.border": "",
+		"editor.stackFrameHighlightBackground": "#85fa6744",
+		// "editor.inlineValuesBackground": "",
+		"debugView.stateLabelForeground": "#99C0D1",
+		// "debugView.valueChangedHighlight": "",
+		"debugTokenExpression.name": "#99C0D1",
+		"debugTokenExpression.value": "#1758CF",
+		"debugTokenExpression.string": "#a8358b",
+		"debugTokenExpression.boolean": "#f4ddfd",
+		"debugTokenExpression.number": "#1758CF",
+		"debugTokenExpression.error": "#eb2d2d",
+
+		"debugIcon.startForeground": "#1758CF",
+		"debugIcon.pauseForeground": "#fab330",
+		"debugIcon.restartForeground": "#fab330",
+		"debugIcon.stopForeground": "#85410a",
+		"debugIcon.disconnectForeground": "#85410a",
+		"debugIcon.stepOverForeground": "#1758CF",
+		"debugIcon.stepIntoForeground": "#1758CF",
+		"debugIcon.stepBackForeground": "#fab330",
+		"debugIcon.stepOutForeground": "#fab330",
+		"debugIcon.continueForeground": "#1758CF",
+
+		"debugConsole.warningForeground": "#85410a",
+		"debugConsole.errorForeground": "#eb2d2d",
+		"debugConsole.sourceForeground": "#ff0000",
+		"debugConsole.infoForeground": "#f4ddfd",
+		"debugConsoleInputIcon.foreground": "#ffefc1",
+		
 
 		// Bracket Matching
 		"editorBracketMatch.background": "#a79178",
@@ -495,7 +527,7 @@
 		// Workbench: Status Bar
 		"statusBar.background": "#796753",
 		"statusBar.noFolderBackground": "#796753",
-		"statusBar.debuggingBackground": "#796753",
+		"statusBar.debuggingBackground": "#df8723",
 		"statusBar.foreground": "#c9bbac",
 		"statusBarItem.remoteBackground": "#99C0D1",
 		"statusBarItem.prominentBackground": "#0063a5",

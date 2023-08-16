@@ -312,7 +312,7 @@
 		"focusBorder": "#5a4d4900",
 		// "contrastActiveBorder": "",
 		// "contrastBorder": "",
-		"icon.foreground": "#050505",
+		"icon.foreground": "#5e5041",
 		"widget.shadow": "#5e5041",
 		"toolbar.hoverBackground": "#a79178",
 
@@ -342,13 +342,13 @@
 		"button.background": "#99C0D1",
 		"button.foreground": "#534f4f",
 
-		"list.activeSelectionBackground": "#a79178",
-		"list.activeSelectionForeground": "#534f4f",
+		"list.activeSelectionBackground": "#756451",
+		"list.activeSelectionForeground": "#ffefc1",
 		"quickInputList.focusBackground": "#af906d",
-		"list.hoverBackground": "#a79178",
-		"list.hoverForeground": "#534f4f",
-		"list.inactiveSelectionBackground": "#5e5041",
-		"list.inactiveSelectionForeground": "#c9bbac",
+		"list.hoverBackground": "#756451",
+		"list.hoverForeground": "#c9bbac",
+		"list.inactiveSelectionBackground": "#55483a",
+		"list.inactiveSelectionForeground": "#ffefc1",
 		"list.dropBackground": "#bea589",
 		"list.highlightForeground": "#534f4f",
 
@@ -502,7 +502,7 @@
 		"breadcrumb.foreground":"#050505",
 
 		// Workbench: Activity Bar
-		"activityBar.background": "#5e5041",
+		"activityBar.background": "#473c31",
 		// "activityBar.foreground": "",
 		"activityBarBadge.background": "#99C0D1",
 		// "activityBarBadge.foreground": "",
@@ -519,9 +519,10 @@
 
 
 		// Workbench: Side Bar
-		"sideBar.background": "#3a362b",
+		"sideBar.background": "#3b332a",
 		"sideBar.foreground": "#c9bbac",
-		"sideBarSectionHeader.background": "#534d3f",
+		"sideBarSectionHeader.background": "#55483a",
+		// "sideBar.dropBackground": "",
 
 
 		// Workbench: Status Bar

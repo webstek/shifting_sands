@@ -3,6 +3,8 @@
   "displayName": "Shifting Sands",
   "description": "A theme for coding in the desert.",
   "version": "0.2.3",
+  "icon": "icon.png",
+  "galleryBanner.color": "#94816b",
   "repository": {
     "url": "https://github.com/webstek/shifting_sands/",
     "type": "git"

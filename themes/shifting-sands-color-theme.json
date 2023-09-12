@@ -312,7 +312,7 @@
 		"focusBorder": "#5a4d4900",
 		// "contrastActiveBorder": "",
 		// "contrastBorder": "",
-		"icon.foreground": "#5e5041",
+		"icon.foreground": "#f0e3d6",
 		"widget.shadow": "#5e5041",
 		"toolbar.hoverBackground": "#a79178",
 
@@ -478,7 +478,7 @@
 
 		// Workbench: Title
 		"titleBar.activeBackground": "#796753",
-		"titleBar.activeForeground": "#050505",
+		"titleBar.activeForeground": "#c9bbac",
 		"titleBar.inactiveBackground": "#746758",
 		// "titleBar.inactiveForeground": "",
 
@@ -579,7 +579,7 @@
 		"menubar.selectionBackground": "#5e5041",
 
 		// Settings Editor
-		"settings.headerForeground": "#050505"
+		"settings.headerForeground": "#ce1a1a"
 	},
 	"semanticHighlighting": true
 }

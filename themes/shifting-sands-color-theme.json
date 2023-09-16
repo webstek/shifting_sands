@@ -73,7 +73,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#99C0D1"
+				"foreground": "#001883"
 			}
 		},
 		{
@@ -528,9 +528,9 @@
 		// Workbench: Status Bar
 		"statusBar.background": "#796753",
 		"statusBar.noFolderBackground": "#796753",
-		"statusBar.debuggingBackground": "#df8723",
+		"statusBar.debuggingBackground": "#28467c",
 		"statusBar.foreground": "#c9bbac",
-		"statusBarItem.remoteBackground": "#99C0D1",
+		"statusBarItem.remoteBackground": "#1758CF",
 		"statusBarItem.prominentBackground": "#0063a5",
 		"statusBarItem.prominentHoverBackground": "#0063a5dd",
 		// "statusBarItem.activeBackground": "",

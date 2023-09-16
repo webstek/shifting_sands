@@ -3,6 +3,8 @@
 All notable changes to the "shifting-sands" extension will be documented in this file.
 
 ## v0.2.x
+- Added example screenshot of the colorscheme
+- Updated storage type coloring
 - Added an icon
 - Adjusted titlebar foreground color
 - Improved icon readability on list headers/dark backgrounds

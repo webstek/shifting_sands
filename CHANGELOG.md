@@ -13,6 +13,7 @@ All notable changes to the "shifting-sands" extension will be documented in this
 - Added better contrast for git & markdown
 - Added colors for notebooks
 - Changed VScode version requirement to 1.61.0
+- Improved markdown preview consistency (block quote colours changed)
 
 ## v0.1.x
 - Initial release based on the Abyss theme

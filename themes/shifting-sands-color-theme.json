@@ -1,5 +1,5 @@
 {
-	"name": "Retro Colors",
+	"name": "Shifting Sands",
 	"tokenColors": [
 		{
 			"settings": {
@@ -275,7 +275,7 @@
 				"fontStyle": "bold",
 				"foreground": "#6688cc"
 			}
-		}
+		},
 	],
 	"colors": {
 
@@ -571,6 +571,12 @@
 		"terminal.ansiBrightCyan": "#78ffff",
 		"terminal.ansiBrightWhite": "#ffffff",
 
+		// Workbench: Markdown preview
+		"textBlockQuote.background": "#bea589",
+		"textBlockQuote.border": "#1758cf",
+		"textCodeBlock.background": "#bea589",
+		"textPreformat.foreground": "#f5f3f1",
+
 		// Menu Bar
 		// "menu.background": ""
 		"menu.foreground": "#534f4f",
@@ -579,7 +585,7 @@
 		"menubar.selectionBackground": "#5e5041",
 
 		// Settings Editor
-		"settings.headerForeground": "#ce1a1a"
+		"settings.headerForeground": "#1758cf"
 	},
 	"semanticHighlighting": true
 }
